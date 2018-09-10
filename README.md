@@ -6,11 +6,11 @@ Python-2.7
 Go to root directory, and run "run.sh"
 
 
----How to check command line options
+---How to check command line options?
 go to src directory, and run "python prediction-validation.py -h"
 
 
----Running Testsuite 
+---Running Testsuite: 
 Create your own testfolder in, insight_testsuite/tests/<your_own_teste>
 Place input files {actual.txt, predicted.txt, window.txt} in "input" directory
 Place compare.txt in "output" directory
